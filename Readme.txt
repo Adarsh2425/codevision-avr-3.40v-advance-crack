@@ -1,3 +1,3 @@
 - Intall app
-- Copy & Replace BIN folder to install path; C:\cvavr
+- Copy & Replace both .dll file in the bin folder to install path; C:\cvavr
 
